@@ -1,0 +1,32 @@
+box2d-py==2.3.5
+cffi==1.16.0
+└── pycparser [required: Any, installed: 2.22]
+Cython==0.29.37
+etils==1.7.0
+fasteners==0.15
+├── monotonic [required: >=0.1, installed: 1.6]
+└── six [required: Any, installed: 1.16.0]
+fsspec==2024.5.0
+gym-notices==0.0.8
+gymnasium==0.29.1
+├── cloudpickle [required: >=1.2.0, installed: 3.0.0]
+├── Farama-Notifications [required: >=0.0.1, installed: 0.0.4]
+├── numpy [required: >=1.21.0, installed: 1.26.4]
+└── typing_extensions [required: >=4.3.0, installed: 4.12.0]
+imageio==2.34.1
+├── numpy [required: Any, installed: 1.26.4]
+└── pillow [required: >=8.3.2, installed: 10.3.0]
+importlib_resources==6.4.0
+mujoco==2.3.7
+├── absl-py [required: Any, installed: 2.1.0]
+├── glfw [required: Any, installed: 2.7.0]
+├── numpy [required: Any, installed: 1.26.4]
+└── PyOpenGL [required: Any, installed: 3.1.7]
+pipdeptree==2.21.0
+├── packaging [required: >=23.1, installed: 24.0]
+└── pip [required: >=23.1.2, installed: 24.0]
+pygame==2.5.2
+setuptools==69.5.1
+swig==4.2.1
+wheel==0.43.0
+zipp==3.19.0
