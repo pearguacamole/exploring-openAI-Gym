@@ -1,9 +1,9 @@
 import gymnasium as gym
 import random
 import tensorflow
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Dense, Flatten
-from tensorflow.keras.optimizers.legacy import Adam
+from tensorflow.keras.models import Sequential # type: ignore
+from tensorflow.keras.layers import Dense, Flatten # type: ignore
+from tensorflow.keras.optimizers.legacy import Adam # type: ignore
 
 #wrapper to make gymansium compatable with keras-rl2
 class GymWrapper(gym.Wrapper):  
